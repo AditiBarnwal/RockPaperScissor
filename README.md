@@ -10,3 +10,4 @@ Paper vs Scissor    ->> Scissor Wins.
 </br>
 
 ![image](https://user-images.githubusercontent.com/90051406/156910093-a457271e-8215-4794-b098-08c8468bd6a5.png)
+|<img src="https://user-images.githubusercontent.com/90051406/156910093-a457271e-8215-4794-b098-08c8468bd6a5.png" width="300" height="200" />|
